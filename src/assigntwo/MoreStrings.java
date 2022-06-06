@@ -6,8 +6,8 @@ public class MoreStrings {
 
     public static void main(String[] args) {
 
-        //String palindrome = "Was it a car or a cat I saw?";
-        String palindrome = "wowow";
+        String palindrome = "Was it a car or a cat I saw";
+        //String palindrome = "wowow";
         String firstStrCamel = "Good Morning";
         String firstStrUpper = "GOOD MORNING";
         String firstStrLower = "good morning";

@@ -21,6 +21,7 @@ public class Strings {
 
     }
 
+    // compare two strings ignoring case
     public static void stringComparison(String string1, String string2) {
         System.out.println("String 1: " + string1);
         System.out.println("String 2: " + string2);
@@ -36,6 +37,7 @@ public class Strings {
         }
     }
 
+    // concatenation
     public static void concatString(String string1, String string2) {
         System.out.println("String 1: " + string1);
         System.out.println("String 2: " + string2);
@@ -44,6 +46,7 @@ public class Strings {
         System.out.println();
     }
 
+    // get length of string
     public static void getStrLength(String string1) {
         System.out.println("Original string: " + string1);
 
@@ -51,6 +54,7 @@ public class Strings {
         System.out.println();
     }
 
+    // get substring
     public static void getSubstring(String string1) {
         System.out.println("Original string: " + string1);
 
@@ -58,6 +62,7 @@ public class Strings {
         System.out.println();
     }
 
+    // convert to uppercase
     public static void convertToUpperCase(String string1) {
         System.out.println("Original string: " + string1);
 
@@ -65,6 +70,7 @@ public class Strings {
         System.out.println();
     }
 
+    // convert to lowercase
     public static void convertToLowerCase(String string1) {
         System.out.println("Original string: " + string1);
 
@@ -72,6 +78,7 @@ public class Strings {
         System.out.println();
     }
 
+    // reverse the string
     public static void reverseString(String string1) {
         String reverse = " ";
         char ch;
